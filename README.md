@@ -99,9 +99,10 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Digital Innovation One | Sintaxe Básica em JavaScript  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Sintaxe%20Básica%20em%20JavaScript.pdf) | 2 H | 2021 |
 | Digital Innovation One | Sintaxe e Operadores JS [:scroll:](https://github.com/viniciuskurt/Certificados/commit/7a13430706dbc002ecc249212e9dad3f89f5378f) | 2 H | 2021 |
 | Udemy | Criando Páginas Web com o GitHub Pages | 1 H | 2021 |
-| Digital Innovation One2022 | Variáveis e Tipos JavaScript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Variáveis%20e%20Tipos%20JavaScript.pdf) | 3 H | 2022 |
+| Digital Innovation One | Variáveis e Tipos JavaScript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Variáveis%20e%20Tipos%20JavaScript.pdf) | 3 H | 2022 |
 | Digital Innovation One | Functions JavaScript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Funções%20Javascript.pdf) | 1 H | 2022 |
 | Digital Innovation One | Collections JavaScript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Coleções%20em%20JavaScript.pdf) | 1 H | 2022 |
+| Digital Innovation One | Debugging / Error Handling Javascript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-Debugging%20e%20Error%20Handling%20Javascript.pdf) | 2 H | 2022 |
 
 #### :books: Outros Cursos
 
