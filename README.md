@@ -105,6 +105,7 @@ Click on the icon ([:scroll:]) to view the Certificate.
 | Digital Innovation One | Debugging / Error Handling Javascript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-Debugging%20e%20Error%20Handling%20Javascript.pdf) | 2 H | 2022 |
 | Digital Innovation One | JavaScript Assíncrono [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20JavaScript%20Assíncrono.pdf) | 1 H | 2022 |
 | Digital Innovation One | Orientação a Objetos em Javascript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Orientação%20a%20Objetos%20em%20JavaScript.pdf) | 1 H | 2022 |
+| Digital Innovation One | Métodos  Map - Filter - Reduce em  Javascript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Metodos%20%20Map%20-%20Filter%20-%20Reduce%20em%20%20Javascript.pdf) | 2 H | 2022 |
 
 #### :books: Outros Cursos
 
