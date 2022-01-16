@@ -14,7 +14,7 @@ Clique no ícone (:scroll:) para visualizar o Certificado.
 
 Click on the icon (:scroll:) to view the Certificate. 
 
-Clique no ícone (:computer:) para acessar o projeto. / Click the icon (:computer:) to access the project.
+Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to access the project.
 
 
 
@@ -112,7 +112,7 @@ Clique no ícone (:computer:) para acessar o projeto. / Click the icon (:compute
 | Digital Innovation One | Métodos  Map - Filter - Reduce em  Javascript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Metodos%20%20Map%20-%20Filter%20-%20Reduce%20em%20%20Javascript.pdf) | 2 H | 2022 |
 | Digital Innovation One | Manipulação D.O.M. JavaScript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Orientação%20a%20Objetos%20em%20JavaScript.pdf) | 1 H | 2022 |
 | Digital Innovation One | Resolvendo Desafios de Código em Javascript [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Resolvendo%20Desafios%20de%20Código.pdf) | 1 H | 2022 |
-| Digital Innovation One | Recriando a Interface do Netflix [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Recriando%20a%20Interface%20do%20Netflix.pdf)  [:computer:](https://github.com/viniciuskurt/FrontEnd-Netflix) | 5 H | 2022 |
+| Digital Innovation One | Recriando a Interface do Netflix [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Recriando%20a%20Interface%20do%20Netflix.pdf)  [:dart:](https://github.com/viniciuskurt/FrontEnd-Netflix) | 5 H | 2022 |
 
 #### :books: Outros Cursos
 
