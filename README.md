@@ -115,6 +115,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Digital Innovation One | Recriando a Interface do Netflix [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Recriando%20a%20Interface%20do%20Netflix.pdf)  [:dart:](https://github.com/viniciuskurt/FrontEnd-Netflix) | 5 H | 2022 |
 | Digital Innovation One | SQL SERVER - Criando suas primeiras consultas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20SQL%20SERVER%20-%20Criando%20Consultas.pdf) | 4 H | 2022 |
 | Digital Innovation One | MER SQL Server [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20MER%20SQL%20Server.pdf) | 2 H | 2022 |
+| Digital Innovation One | SQL Server: Boas práticas em bancos relacionais [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Boas%20Praticas%20em%20BD%20SQL%20Server.pdf) | 2 H | 2022 |
 
 #### :books: Outros Cursos
 
