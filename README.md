@@ -117,6 +117,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Digital Innovation One | MER SQL Server [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20MER%20SQL%20Server.pdf) | 2 H | 2022 |
 |             Digital Innovation One             |Boas Praticas em BD SQL Server [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Boas%20Praticas%20em%20BD%20SQL%20Server.pdf)|2 H|2022|
 | Digital Innovation One | Introdução ao ReactJs [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20ao%20ReactJs.pdf) | 3 H | 2022 |
+| Digital Innovation One | Desenvolvimento de aplicações para internet com ReactJS [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Desenvolvimento%20de%20aplicações%20para%20internet%20com%20ReactJS.pdf) | 4 H | 2022 |
 
 
 #### :books: Outros Cursos
