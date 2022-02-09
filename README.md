@@ -119,6 +119,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Digital Innovation One | Introdução ao ReactJs [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Introdução%20ao%20ReactJs.pdf) | 3 H | 2022 |
 | Digital Innovation One | Desenvolvimento de aplicações para internet com ReactJS [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Desenvolvimento%20de%20aplicações%20para%20internet%20com%20ReactJS.pdf) | 4 H | 2022 |
 | Digital Innovation One | Trabalhando com Componentes em React [:scroll:]( https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Trabalhando%20com%20Componentes%20em%20React.pdf) | 2 H | 2022 |
+| Digital Innovation One | Trabalhando com States & Effects no ReactJs [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Trabalhando%20com%20States%20%26%20Effects%20no%20ReactJs.pdf) | 2 H | 2022 |
 
 
 #### :books: Outros Cursos
