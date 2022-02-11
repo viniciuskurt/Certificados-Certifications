@@ -122,6 +122,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Digital Innovation One | Trabalhando com States & Effects no ReactJs [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Trabalhando%20com%20States%20%26%20Effects%20no%20ReactJs.pdf) | 2 H | 2022 |
 | Digital Innovation One | Introdução a APIs e métodos HTTP [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20Introdução%20a%20APIs%20e%20métodos%20HTTP.pdf) | 2 H | 2022 |
 | Digital Innovation One | Instalando e Configurando seu Ambiente Nodejs [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20Instalando%20e%20Configurando%20seu%20Ambiente%20Nodejs.pdf) | 1 H | 2022 |
+| Digital Innovation One | Explorando o Estilo Arquitetural REST com NodeJS [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Explorando%20o%20Estilo%20Arquitetural%20REST%20com%20NodeJS.pdf) | 2 H | 2022 |
 
 
 #### :books: Outros Cursos
