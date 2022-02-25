@@ -150,7 +150,6 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 |          IGTI           | Desenvolvedor Tech Pan  [:scroll:](hhttps://github.com/viniciuskurt/Certificados/blob/master/Certificado%20IGTI%20-%20Bootcamp%20Desenvolvedor%20Tech%20Pan.pdf) |    2021 / 148 H     | :heavy_check_mark: |
 |          IGTI           | Speeed Wiz Dev [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado_Bootcamp_SpeedWizDev.pdf) |    2021 / 148 H     | :heavy_check_mark: |
 | Digital Innovation One  |                   Inter Frontend Developer                   |     2022 / 99 H     |     :clock10:      |
-| Digital Innovation One  |                   MRV Fullstack Developer                    |    2022 / 107 H     |      :clock4:      |
 | Digital Innovation One  |                   Take Blip Web Developer                    |     2022 / 78 H     |      :clock4:      |
 
 
