@@ -126,6 +126,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Digital Innovation One | Explorando o Estilo Arquitetural REST com NodeJS [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Explorando%20o%20Estilo%20Arquitetural%20REST%20com%20NodeJS.pdf) | 2 H | 2022 |
 | Digital Innovation One | Node.js com Bancos de Dados Relacionais (SQL) [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Node.js%20com%20Bancos%20de%20Dados%20Relacionais%20(SQL).pdf) | 2 H | 2022 |
 | Digital Innovation One | Microsserviços e Integrações com NodeJs [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Microsserviços%20e%20Integrações%20com%20NodeJs.pdf) | 2 H | 2022 |
+| Digital Innovation One | Pensamento Computacional [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Pensamento%20Computacional.pdf) | 2 H | 2022 |
 
 
 #### :books: Outros Cursos
