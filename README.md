@@ -128,6 +128,8 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Digital Innovation One | Microsserviços e Integrações com NodeJs [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Microsserviços%20e%20Integrações%20com%20NodeJs.pdf) | 2 H | 2022 |
 | Digital Innovation One | Pensamento Computacional [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Pensamento%20Computacional.pdf) | 2 H | 2022 |
 | Digital Innovation One | Princípios de Pensamento Computacional com Python [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20Pensamento%20Computacional%20com%20Python.pdf) | 1 H | 2022 |
+| Digital Innovation  One | MySql - Explorando Relacionamentos com Workbench [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20MySql%20-%20Explorando%20Relacionamentos%20com%20Workbench.pdf) | 2 H | 2022 |
+| Digital Innovation One | MySQL - Consultas com Join [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20MySQL%20-%20Consultas%20com%20Join.pdf) | 2 H | 2022 |
 
 
 #### :books: Outros Cursos
