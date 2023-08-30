@@ -132,6 +132,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Digital Innovation One | MySQL - Consultas com Join [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20MySQL%20-%20Consultas%20com%20Join.pdf) | 2 H | 2022 |
 | Fundação Bradesco EV / Microsoft | Introdução a Análise de Dados Microsoft Power BI [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20-%20INTRODUCAO%20A%20ANALISE%20DE%20DADOS%20MICROSOFT%20POWER%20BI.pdf) | 5 H | 2022 |
 | Esade Executive Education | Técnicas Avançadas de Negociação | 10 H | 2022 |
+| Google | Fundamentos: dados, dados, em todos os lugares | 19 H | 2023 |
 
 
 #### :books: Outros Cursos
