@@ -132,7 +132,9 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Digital Innovation One | MySQL - Consultas com Join [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Digital%20Innovation%20-%20MySQL%20-%20Consultas%20com%20Join.pdf) | 2 H | 2022 |
 | Fundação Bradesco EV / Microsoft | Introdução a Análise de Dados Microsoft Power BI [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20-%20INTRODUCAO%20A%20ANALISE%20DE%20DADOS%20MICROSOFT%20POWER%20BI.pdf) | 5 H | 2022 |
 | Esade Executive Education | Técnicas Avançadas de Negociação [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Esade%20-%20Tecnicas%20de%20Negociacao.pdf) | 10 H | 2022 |
-| Google | Fundamentos: dados, dados, em todos os lugares  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Google%20-%20Fundamentos%20de%20Dados.pdf) | 19 H | 2023 |
+| Google | Fundamentos de Análise de Dados [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Google%20-%20Fundamentos%20de%20Dados.pdf) | 19 H | 2023 |
+| Alura | Análise e Visualização de Dados  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Alura%20-%20Analise%20e%20Vizualização%20de%20Dados.pdf) | 6 | 2023 |
+| Alura | Tratando e Analisando Dados com Pandas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Alura%20-%20Tratando%20e%20Analisando%20Dados%20com%20Pandas.pdf) | 12 H | 2023 |
 
 
 #### :books: Outros Cursos
