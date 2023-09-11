@@ -133,8 +133,9 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Fundação Bradesco EV / Microsoft | Introdução a Análise de Dados Microsoft Power BI [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20-%20INTRODUCAO%20A%20ANALISE%20DE%20DADOS%20MICROSOFT%20POWER%20BI.pdf) | 5 H | 2022 |
 | Esade Executive Education | Técnicas Avançadas de Negociação [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Esade%20-%20Tecnicas%20de%20Negociacao.pdf) | 10 H | 2022 |
 | Google | Fundamentos de Análise de Dados [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Google%20-%20Fundamentos%20de%20Dados.pdf) | 19 H | 2023 |
-| Alura | Análise e Visualização de Dados  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Alura%20-%20Analise%20e%20Vizualização%20de%20Dados.pdf) | 6 | 2023 |
+| Alura | Análise e Visualização de Dados  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Alura%20-%20Analise%20e%20Vizualização%20de%20Dados.pdf) | 6 H | 2023 |
 | Alura | Tratando e Analisando Dados com Pandas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Alura%20-%20Tratando%20e%20Analisando%20Dados%20com%20Pandas.pdf) | 12 H | 2023 |
+| Alura | Estatística com Python - Frequência e Medidas  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Estatistica%20com%20Python%20-%20Frequencia%20e%20Medidas.pdf) | 10 H | 2023 |
 
 
 #### :books: Outros Cursos
@@ -158,8 +159,6 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Digital Innovation One  |                Banco Carrefour Data Engineer                 |     2021 /114 H     | :heavy_check_mark: |
 |          IGTI           | Desenvolvedor Tech Pan  [:scroll:](hhttps://github.com/viniciuskurt/Certificados/blob/master/Certificado%20IGTI%20-%20Bootcamp%20Desenvolvedor%20Tech%20Pan.pdf) |    2021 / 148 H     | :heavy_check_mark: |
 |          IGTI           | Speeed Wiz Dev [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado_Bootcamp_SpeedWizDev.pdf) |    2021 / 148 H     | :heavy_check_mark: |
-| Digital Innovation One  |                   Inter Frontend Developer                   |     2022 / 99 H     |     :clock10:      |
-| Digital Innovation One  |                   Take Blip Web Developer                    |     2022 / 78 H     |      :clock4:      |
 
 
 
