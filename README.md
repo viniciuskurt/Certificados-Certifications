@@ -137,6 +137,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura | Análise e Visualização de Dados  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Alura%20-%20Analise%20e%20Vizualização%20de%20Dados.pdf) | 6 H | 2023 |
 | Alura | Tratando e Analisando Dados com Pandas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Alura%20-%20Tratando%20e%20Analisando%20Dados%20com%20Pandas.pdf) | 12 H | 2023 |
 | Alura | Estatística com Python - Frequência e Medidas  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Estatistica%20com%20Python%20-%20Frequencia%20e%20Medidas.pdf) | 10 H | 2023 |
+| Alura | Estatística com Python - Probabilidade e Amostragem [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Estatistica%20com%20Python%20-%20Probabilidade%20e%20Amostragem.pdf) | 10 H | 2023 |
 
 
 #### :books: Outros Cursos
