@@ -134,6 +134,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Esade Executive Education | Técnicas Avançadas de Negociação [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Esade%20-%20Tecnicas%20de%20Negociacao.pdf) | 10 H | 2022 |
 | Google | Fundamentos de Análise de Dados  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Google%20-%20Fundamentos%20de%20Dados.pdf) | 19 H | 2023 |
 | Google | Perguntas para Tomada de Decisões com Base em Dados [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Google%20-%20Perguntas%20para%20Tomada%20de%20Decisões%20com%20Base%20em%20Dados.pdf) | 18 H | 2023 |
+| Google | Preparar os Dados para Exploração  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Google%20-Preparar%20os%20Dados%20para%20Exploracao.pdf) | 22 H | 2023 |
 | Alura | Análise e Visualização de Dados  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Alura%20-%20Analise%20e%20Vizualização%20de%20Dados.pdf) | 6 H | 2023 |
 | Alura | Tratando e Analisando Dados com Pandas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Alura%20-%20Tratando%20e%20Analisando%20Dados%20com%20Pandas.pdf) | 12 H | 2023 |
 | Alura | Estatística com Python - Frequência e Medidas  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Estatistica%20com%20Python%20-%20Frequencia%20e%20Medidas.pdf) | 10 H | 2023 |
