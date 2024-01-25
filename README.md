@@ -139,6 +139,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura | Tratando e Analisando Dados com Pandas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Alura%20-%20Tratando%20e%20Analisando%20Dados%20com%20Pandas.pdf) | 12 H | 2023 |
 | Alura | Estatística com Python - Frequência e Medidas  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Estatistica%20com%20Python%20-%20Frequencia%20e%20Medidas.pdf) | 10 H | 2023 |
 | Alura | Estatística com Python - Probabilidade e Amostragem [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Estatistica%20com%20Python%20-%20Probabilidade%20e%20Amostragem.pdf) | 10 H | 2023 |
+| Google | Processar Dados para Limpeza  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Google%20-%20Processar%20Dados%20para%20Limpeza.pdf) | 22 H | 2024 |
 
 
 #### :books: Outros Cursos
