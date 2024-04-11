@@ -140,6 +140,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura | Estatística com Python - Frequência e Medidas  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Estatistica%20com%20Python%20-%20Frequencia%20e%20Medidas.pdf) | 10 H | 2023 |
 | Alura | Estatística com Python - Probabilidade e Amostragem [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Estatistica%20com%20Python%20-%20Probabilidade%20e%20Amostragem.pdf) | 10 H | 2023 |
 | Google | Processar Dados para Limpeza  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Google%20-%20Processar%20Dados%20para%20Limpeza.pdf) | 22 H | 2024 |
+| Alura | Regressão Linear - Testando Relações e Previsão de Resultados [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Regressao%20Linear%20-%20Testando%20Relacoes%20e%20Prevsiao%20de%20Resultados.pdf) | 12 H | 2024 |
 
 
 #### :books: Outros Cursos
