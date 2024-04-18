@@ -143,6 +143,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura | Regressão Linear - Testando Relações e Previsão de Resultados [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Regressao%20Linear%20-%20Testando%20Relacoes%20e%20Prevsiao%20de%20Resultados.pdf) | 12 H | 2024 |
 | Alura | Regressão Linear - Técnicas Avançadas de Modelagem [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Regressao%20Linear%20-%20Tecnicas%20Avancadas%20de%20Modelagem.pdf) | 5 H | 2024 |
 | Alura | Data Visualization: Técnicas de Visualização com Google Sheets [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Data%20Visualization%20-%20Tecnicas%20de%20visualizacao%20com%20Google%20Sheets.pdf) | 8 H | 2024 |
+| Alura | Data Visualization - Criação de Gráficos com Matplotlib[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Curso%20Data%20Visualization%20-%20criacao%20de%20graficos%20com%20o%20Matplotlib.pdf) | 6 H | 2024 |
 
 
 #### :books: Outros Cursos
