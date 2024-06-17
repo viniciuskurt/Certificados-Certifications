@@ -146,6 +146,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura | Data Visualization - Criação de Gráficos com Matplotlib[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Curso%20Data%20Visualization%20-%20criacao%20de%20graficos%20com%20o%20Matplotlib.pdf) | 6 H | 2024 |
 | Alura | Testes Estatísticos com Python [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Testes%20Estatísticos%20com%20Python.pdf) | 6 H | 2024 |
 | Alura | Análise de Experimentos:  Testes - Mapas de Cores e Análises dos dados  [:scroll:]( https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Curso%20Analise%20de%20experimentos%20-%20testes%20-%20Mapas%20de%20Cores%20e%20Analises%20dos%20dados.pdf) | 6 H | 2024 |
+| Alura | Data Visualization - Criando Gráficos com Bibliotecas Python [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Data%20Visualization%20-%20Criando%20Graficos%20com%20Bibliotecas%20Python.pdf) | 10 H | 2024 |
 
 
 #### :books: Outros Cursos
