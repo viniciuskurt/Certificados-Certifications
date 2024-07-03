@@ -148,6 +148,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura | Análise de Experimentos:  Testes - Mapas de Cores e Análises dos dados  [:scroll:]( https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Curso%20Analise%20de%20experimentos%20-%20testes%20-%20Mapas%20de%20Cores%20e%20Analises%20dos%20dados.pdf) | 6 H | 2024 |
 | Alura | Data Visualization - Criando Gráficos com Bibliotecas Python [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Data%20Visualization%20-%20Criando%20Graficos%20com%20Bibliotecas%20Python.pdf) | 10 H | 2024 |
 | Alura | Data Science - Testando Hipóteses[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Data%20Science%20-%20Testando%20Hipoteses.pdf) | 8 H | 2024 |
+| Alura | Data Science - Testando Relações com Regressão Linear[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Data%20Science%20-%20Testanto%20Relacoes%20com%20Regressao%20Linear.pdf) | 8 H | 2024 |
 
 
 #### :books: Outros Cursos
