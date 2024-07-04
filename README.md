@@ -158,7 +158,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 
 |        Órgão emissor        |                            Curso                             | Carga horária | Conclusão |
 | :-------------------------: | :----------------------------------------------------------: | :-----------: | :-------: |
-|     Centro Paula Souza      | Horticultura Orgânica  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Centro%20Paula%20Souza%20-%20Horticultura%20Orgânica.pdf) |     44 H      |   1998    |
+|            Alura            | Formação em Data Science  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20de%20Formação%20em%20Data%20Science%20Alura.pdf) |     49 H      |   2024    |
 | Tribunal Superior Eleitoral | Treinamento para Mesários ​ [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20TSE%20-%20Treinamento%20Mesarios%202020.pdf) |      6 H      |   2021    |
 
 
