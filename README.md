@@ -152,6 +152,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura | Data Science - Analisando e Prevendo Séries Temporais[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Data%20Science%20-%20Analisando%20e%20Prevendo%20Series%20Temporais.pdf) | 10 H | 2024 |
 | Alura | Databricks - Introdução a Ferramenta[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Databricks%20-%20Introducao%20a%20Ferramenta.pdf) | 8 H | 2024 |
 | Alura | Databricks - Trabalhando com Diversos Formatos e Tipos de Arquivos[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Databricks%20Trabalhando%20com%20Diversos%20Formatos%20e%20Tipos%20de%20Arquivos.pdf) | 8 H | 2024 |
+| Alura | Databricks - Análise de dados[:scroll:]( https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Databricks%20-%20Analise%20de%20Dados.pdf) | 8 H | 2024 |
 
 
 #### :books: Outros Cursos
