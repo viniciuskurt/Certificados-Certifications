@@ -154,6 +154,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura | Databricks - Trabalhando com Diversos Formatos e Tipos de Arquivos[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Databricks%20Trabalhando%20com%20Diversos%20Formatos%20e%20Tipos%20de%20Arquivos.pdf) | 8 H | 2024 |
 | Alura | Databricks - Análise de dados[:scroll:]( https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Databricks%20-%20Analise%20de%20Dados.pdf) | 8 H | 2024 |
 | Alura | Criando um Sistema de Recomendação com Databricks[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Criando%20um%20Sistema%20de%20Recomendação%20com%20Databricks.pdf) | 10 H | 2024 |
+| Alura | Databricks e Data Factory - Criando e Orquestrando Pipelines na Nuvem[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Databricks%20e%20Data%20Factory%20-%20Criando%20e%20Orquestrando%20Pipelines%20na%20Nuvem.pdf) | 10 H | 2024 |
 
 
 #### :books: Outros Cursos
