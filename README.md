@@ -155,16 +155,18 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura | Databricks - Análise de dados[:scroll:]( https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Databricks%20-%20Analise%20de%20Dados.pdf) | 8 H | 2024 |
 | Alura | Criando um Sistema de Recomendação com Databricks[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Criando%20um%20Sistema%20de%20Recomendação%20com%20Databricks.pdf) | 10 H | 2024 |
 | Alura | Databricks e Data Factory - Criando e Orquestrando Pipelines na Nuvem[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Databricks%20e%20Data%20Factory%20-%20Criando%20e%20Orquestrando%20Pipelines%20na%20Nuvem.pdf) | 10 H | 2024 |
+| Alura | Construindo Pipelines de Dados com Airflow e Azure Databricks[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Curso%20Databricks%20-%20Construindo%20Pipelines%20de%20Dados%20com%20Airflow%20e%20Azure%20Databricks.pdf) | 10 H | 2024 |
 
 
 #### :books: Outros Cursos
 
 **Other Courses**
 
-|        Órgão emissor        |                            Curso                             | Carga horária | Conclusão |
-| :-------------------------: | :----------------------------------------------------------: | :-----------: | :-------: |
-|            Alura            | Formação em Data Science  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20de%20Formação%20em%20Data%20Science%20Alura.pdf) |     49 H      |   2024    |
-| Tribunal Superior Eleitoral | Treinamento para Mesários ​ [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20TSE%20-%20Treinamento%20Mesarios%202020.pdf) |      6 H      |   2021    |
+| Órgão emissor |                            Curso                             | Carga horária | Conclusão |
+| :-----------: | :----------------------------------------------------------: | :-----------: | :-------: |
+|     Alura     | Formação em Data Science [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20de%20Formação%20em%20Data%20Science%20Alura.pdf) |     49 H      |   2024    |
+|     Alura     | Formação Engenharia de Dados com Databricks [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Formação%20Engenharia%20de%20dados%20com%20Databricks.pdf) |     55 H      |   2024    |
+|               |                                                              |               |           |
 
 
 
