@@ -28,7 +28,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | :---------------------------------------------------: | :----------------------------------------------------------: | :-------: |
 |              E. E. "Maria Cruz Pimentel"              |                         Ensino Médio                         |   2002    |
 |  Escola Técnica Estadual "Professor Fausto Mazzola"   | Nível Técnico em Informática para Internet  (Desenvolvimento Web)  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Centro%20Paula%20Souza%20-%20Tecnico%20Informatica%20para%20Internet.pdf) |   2016    |
-| Universidade Virtual do Estado de São Paulo - Univesp |                Graduação em Ciência de Dados                 |   2024    |
+| Universidade Virtual do Estado de São Paulo - Univesp |                Graduação em Ciência de Dados                 |   2026    |
 
 
 
@@ -195,15 +195,16 @@ Clique no ícone :scroll: para visualizar os certificados. (Eventos sem o ícone
 
 Click on the :scroll: icon to view the certificates. (Events without the icon did not generate certificates.)
 
-|        Organização        |                 Evento                 |                           Assunto                            | Profissional                                                 | Data/ C.H.   |
-| :-----------------------: | :------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | :----------- |
-|           EBACT           |     O Poder Estratégico dos Dados      |      Tomando decisões mais conscientes utilizando dados      | Daniel Lopes \| C. D. Hórus ITS                              | jun/21 1h    |
-|           EBACT           |     O Poder Estratégico dos Dados      |                    Storytelling com dados                    | Felipe Machado \| Cientista de dados na Olist                | jun/21 1h    |
-|        Let's Code         |   Santander Coders Ciência  de Dados   |                            Python                            | Milton Ossa \| Cientista de Dados Santander)                 | jul/21  1h   |
-|        Let's Code         |   Santander Coders Ciência  de Dados   |                       Ciência de Dados                       | Milton Ossa \| Cientista de Dados Santander                  | jul/21 1h    |
-| Comunidade Bioestatística | Semana da Bioestatística Computacional | Conceitos Fundamentais de Métodos Científicos [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2:30h |
-| Comunidade Bioestatística | Semana da Bioestatística Computacional | Tipos de Testes p/ Variáveis Qualitativas e Quantitativas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2:30h |
-| Comunidade Bioestatística | Semana da Bioestatística Computacional | Cálculo Amostral no Software G-Power [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/21 2h    |
+|        Organização        |                 Evento                 |                           Assunto                            | Profissional                                                 | Data/ C.H.     |
+| :-----------------------: | :------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | :------------- |
+|           EBACT           |     O Poder Estratégico dos Dados      |      Tomando decisões mais conscientes utilizando dados      | Daniel Lopes \| C. D. Hórus ITS                              | jun/2021 1h    |
+|           EBACT           |     O Poder Estratégico dos Dados      |                    Storytelling com dados                    | Felipe Machado \| Cientista de dados na Olist                | jun/2021 1h    |
+|        Let's Code         |   Santander Coders Ciência  de Dados   |                            Python                            | Milton Ossa \| Cientista de Dados Santander)                 | jul/2021  1h   |
+|        Let's Code         |   Santander Coders Ciência  de Dados   |                       Ciência de Dados                       | Milton Ossa \| Cientista de Dados Santander                  | jul/2021 1h    |
+| Comunidade Bioestatística | Semana da Bioestatística Computacional | Conceitos Fundamentais de Métodos Científicos [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/2021 2:30h |
+| Comunidade Bioestatística | Semana da Bioestatística Computacional | Tipos de Testes p/ Variáveis Qualitativas e Quantitativas [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/2021 2:30h |
+| Comunidade Bioestatística | Semana da Bioestatística Computacional | Cálculo Amostral no Software G-Power [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/CERTIFICADO%20-%20SEMANA%20DA%20BIOESTATÍSTICA%20COMPUTACIONAL.pdf) | Patrícia Martins \| Doutoranda Biologia Celular e Molecular na FMRP-USP | jul/2021 2h    |
+|  Profissionais do Futuro  | Inteligência Artificial no Seu Negócio |                Ferramentas de I.A. Generativa                | Danilo Gato\|Empresário e Consultor de IA Generativa para negócios \| Professor de IA na FGV \| Fundador da Comunidade Profissionais do Futuro | fev/2025 4:30h |
 
 
 
@@ -213,7 +214,7 @@ Click on the :scroll: icon to view the certificates. (Events without the icon di
 
 **Tools and Expertises**
 
----- Html5 ---- CSS3 ---- JavaScritp ---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket ---- ReactJs --- Django --- SQLServer --- Microsoft Manager Studio
+---- Html5 ---- CSS3 ---- JavaScritp ---- MySql ---- Psql ---- PostgreSQL ---- pgModeler ---- Python ---- R ---- Git ---- GitHub ---- Pycharm ---- Rstudio ---- GLPi ----Typora ---- Jupyter Notebook ---- Google Colab ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ----Anaconda ---- Active Directory Windows ---- Teamviewer ---- Sublime Text ---- VSCode ---- Markdown ----Numpy ---- Pandas ---- SciPy ---- MatplotLib ---- Seaborn ---- Plotly ---- pgAdmin ---- WordPress  ---- snap-in DHCP Windows ---- Draw.io ---- Gliffy ---- Omada SDN Controller ---- Zimbra Admin Console ---- TeamViewer Managment Console ---- Nxfilter ---- TCP-IP  ---- MySQL Workbench ---- Fedora ---- CentOs ---- Ubuntu ---- OpenSuse --- Draw.io ---- Bitbucket ---- ReactJs --- Django --- SQLServer --- Microsoft Manager Studio ---- Tableau ---- ChatGPT ---- QwenIA ---- DeepSeek ---- Dados ---- Helpdesk ---- Suporte ---- GLPI  ---- Gestão de Chamados ---- RocketChat  ---- Zimbra Admin ---- Jutyper Notebook  ----  IA Generativa ---- Prompts Inteligentes ---- Certificado Digital
 
 
 
