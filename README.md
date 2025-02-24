@@ -156,6 +156,10 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura | Criando um Sistema de Recomendação com Databricks[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Criando%20um%20Sistema%20de%20Recomendação%20com%20Databricks.pdf) | 10 H | 2024 |
 | Alura | Databricks e Data Factory - Criando e Orquestrando Pipelines na Nuvem[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Databricks%20e%20Data%20Factory%20-%20Criando%20e%20Orquestrando%20Pipelines%20na%20Nuvem.pdf) | 10 H | 2024 |
 | Alura | Construindo Pipelines de Dados com Airflow e Azure Databricks[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Curso%20Databricks%20-%20Construindo%20Pipelines%20de%20Dados%20com%20Airflow%20e%20Azure%20Databricks.pdf) | 10 H | 2024 |
+| DIO | Versionamento de Código com GIT e Github [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Dio%20-%20Versionamento%20de%20Código%20com%20GIT%20e%20Github.pdf) | 2 H | 2025 |
+| Microsoft | Introdução a Inteligência Artificial  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Microsoft%20-%20Introducao%20a%20Inteligencia%20Artificial.pdf) | 1 H | 2025 |
+| DIO | Aplicações e Impacto da Ia no Mundo Atual  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Dio%20-%20Aplicacoes%20e%20Impacto%20da%20Ia%20no%20Mundo%20Atual.pdf) | 1 H | 2025 |
+| Microsoft | Introdução a Criação de Prompts Inteligentes com a Microsoft  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Microsoft%20-%20Introducao%20a%20Criacao%20de%20Prompts%20Inteligentes%20com%20a%20Microsoft.pdf) | 1 H | 2025 |
 
 
 #### :books: Outros Cursos
