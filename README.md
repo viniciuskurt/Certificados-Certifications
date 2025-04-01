@@ -163,6 +163,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Alura         | Formação em Data Science [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20de%20Formação%20em%20Data%20Science%20Alura.pdf)                                          | 49 H          | 2024      |
 | Alura         | Formação Engenharia de Dados com Databricks [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Alura%20-%20Formação%20Engenharia%20de%20dados%20com%20Databricks.pdf) | 55 H          | 2024      |
 | FIAP          | Inteligência Artificial e Computacional [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20FIAP%20-%20Inteligencia%20Artificial%20e%20Computacional.pdf)              | 80 H          | 2025      |
+| Google        | Data Analytics Professional [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Google%20-%20Data%20Analytics%20Professional.pdf)                                      | 4 Meses       | 2025      |
 
 ## :computer: BootCamps
 
