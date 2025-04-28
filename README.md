@@ -28,6 +28,8 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 
 **Computing/I.T.**
 
+
+
 | Órgão emissor                                  | Curso                                                                                                                                                                                                                                                                                                     | Carga horária | Conclusão |
 |:----------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:---------:|
 | Polimicro                                      | Job Training I - (Digitação; MS/DOS; Windows3.1; Word for Windows)  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Polimicro%20-%20Job%20Training%20I.pdf)                                                                                                             | 32 h          | 1995      |
@@ -156,6 +158,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | DIO                                            | Documentando Projetos Automáticos Utilizando IA[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Dio%20-%20Documentando%20Projetos%20Automáticos%20Utilizando%20IA.pdf)                                                                                                   | 1 H           | 2025      |
 | DIO                                            | Técnicas de Criação de Prompts[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Dio%20-%20Tecnicas%20de%20Criacao%20de%20Prompts.pdf)                                                                                                                                     | 7 H           | 2025      |
 | DIO                                            | Aplicações Práticas e Ferramentas de IAs[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Dio%20-%20Aplicacoes%20Praticas%20e%20Ferramentas%20de%20IA.pdf)                                                                                                                | 5 H           | 2025      |
+| Profissionais do Futuro                        | ChatGPT Avançado [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Profissionais%20do%20Futuro%20-%20CHATGPT%20Avancado.pdf)                                                                                                                                              | 6 H           | 2025      |
 
 #### :books: Outros Cursos
 
