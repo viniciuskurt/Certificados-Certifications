@@ -177,6 +177,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | FIAP                   | Inteligência Artificial e Computacional [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20FIAP%20-%20Inteligencia%20Artificial%20e%20Computacional.pdf)              | 80 H          | 2025      |
 | Google                 | Data Analytics Professional [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Google%20-%20Data%20Analytics%20Professional.pdf)                                      | 4 Meses       | 2025      |
 | Certificado Senar Play | Drones - Conceito, Legislação e Operação [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Senar%20-Drones%20-%20Conceito%20-%20Legislacao%20e%20Operacao.pdf)       | 20 H          | 2025      |
+| FIAP                   | Marketing em Plataformas de Social Media                                                                                                                                                             | 60 H          |           |
 
 ## :computer: BootCamps
 
