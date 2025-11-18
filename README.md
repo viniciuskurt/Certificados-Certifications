@@ -167,6 +167,9 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | DIO                                            | Personalizando Respostas no Microsoft Copilot Studio [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Personalizando%20Respostas%20no%20Microsoft%20Copilot%20Studio.pdf)                                                                                      | 6 H           | 2025      |
 | DIO                                            | Publicando Copilotos e Analisando Desempenhos no Microsoft Copilot Studio [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Publicando%20Copilotos%20e%20Analisando%20Desempenhos%20no%20Microsoft%20Copilot%20Studio.pdf)                                      | 1 H           | 2025      |
 | Intelbras                                      | Fundamentos em casa inteligente [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Intelbras%20-%20Fundamentos%20em%20casa%20inteligente.pdf)                                                                                                                              | 3 H           | 2025      |
+| Ada                                            | Ética no uso de dados e analytics [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20ADA%20-%20Etica%20no%20uso%20de%20dados%20e%20analytics.pdf)                                                                                                                          | 1 H           | 2025      |
+| Ada                                            | Estatística [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20ADA%20%20-%20Estatistica.pdf)                                                                                                                                                                               | 6 H           | 2025      |
+| DIO                                            | N8N - Conceitos e Instalação [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Primeiros%20passos%20com%20N8N%20-%20Conceitos%20e%20Instalacao.pdf)                                                                                                             | 1 H           | 2025      |
 
 #### :books: Outros Cursos
 
@@ -181,6 +184,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | Certificado Senar Play | Drones - Conceito, Legislação e Operação [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Senar%20-Drones%20-%20Conceito%20-%20Legislacao%20e%20Operacao.pdf)       | 20 H          | 2025      |
 | FIAP                   | Marketing em Plataformas de Social Media [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20FIAP%20-%20Marketing%20em%20Plataformas%20de%20Social%20Media.pdf)        | 60 H          | 2025      |
 | FIAP                   | Big Data e Analytics [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20FIAP%20-%20Big%20Data%20e%20Analytics.pdf)                                                    | 60 H          | 2025      |
+| Google                 | Google AI Essentials [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Coursera%20%20-%20Google%20AI%20Essentials.pdf)                                               | 1 Mês         | 2025      |
 
 ## :computer: BootCamps
 
