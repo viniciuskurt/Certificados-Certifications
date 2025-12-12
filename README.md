@@ -203,6 +203,7 @@ Clique no ícone (:dart:) para acessar o projeto. / Click the icon (:dart:) to a
 | IGTI                    | Speeed Wiz Dev [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado_Bootcamp_SpeedWizDev.pdf)                                                                             | 2021 / 148 H        | :heavy_check_mark: |
 | Microsoft AI for Tech   | Criando Prompts Inteligentes[:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Bootcamp%20-%20Microsoft%20AI%20for%20Tech%20-%20Criando%20Prompts%20Inteligentes.pdf) | 2025 / 30 H         | :heavy_check_mark: |
 | Microsoft AI for Tech   | Copilot Studio [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Bootcamp%20-%20Microsoft%20AI%20for%20Tech%20-%20Copilot%20Studio.pdf)                              | 2025 / 20 H         | :heavy_check_mark: |
+| DIO / Santander         | Automação com N8N [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20DIO%20-%20Bootcamp%20-%20Automação%20com%20N8N.pdf)                                              | 2025 /26 H          | :heavy_check_mark: |
 
 ## 💬 Palestras / Webinars
 
